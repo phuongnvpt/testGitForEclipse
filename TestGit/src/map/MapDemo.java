@@ -48,7 +48,7 @@ public class MapDemo {
 	}
 
 	public static void main(String[] args) {
-		System.out.println("demo map sss");
+		System.out.println("demo map kkkkkkkk");
 		MapDemo demo = new MapDemo();
 		demo.initList();
 		demo.count(demo.getList());
